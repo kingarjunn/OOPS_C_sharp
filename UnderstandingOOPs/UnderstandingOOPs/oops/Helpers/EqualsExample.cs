@@ -36,8 +36,6 @@ namespace UnderstandingOOPs.oops.Helpers
             Console.WriteLine($"== for string s,s1 {s == s1} .Equals for int s,s1 {s.Equals(s1)}");
             Console.WriteLine($"== for object type p1,p2 {p1 == p2} .Equals for int p1,p2 {p1.Equals(p2)}");
             Console.WriteLine($"== for Dictionary {dic == dic1} .Equals for int p1,p2 {dic.Equals(dic1)}");
-
-
         }
         
 
